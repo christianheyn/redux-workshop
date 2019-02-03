@@ -6,7 +6,7 @@ $ npm i
 ```
 
 
-## execute reucer example
+## execute reducer example
 ```
 $ clear && node ./0_start/array-reduce.js
 $ clear && php ./0_start/array-reduce.php
